@@ -1,0 +1,10 @@
+server/.env
+frontend/.env
+server/node_modules/
+frontend/node_modules/
+
+server/build/
+frontend/build/
+
+.vscode/
+package-lock.json
