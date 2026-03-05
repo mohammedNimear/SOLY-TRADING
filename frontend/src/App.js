@@ -35,7 +35,7 @@ import { AuthProvider, CustomersProvider,
   SellingWindowsProvider, StoresProvider, 
   SuppliersProvider, SuppliesProvider, 
   TransfersProvider } from './context';
-
+console.log(process.env.REACT_APP_API_URL)
 /**
  * App is the main component of the application.
  * It wraps all the other components and providers with the necessary context.

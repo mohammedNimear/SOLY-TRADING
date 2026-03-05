@@ -18,7 +18,7 @@ const app = express();
 // إعدادات CORS للسماح بالطلبات من الواجهة الأمامية
 const corsOptions = {
     origin: [
-        'https://soly-trading.netlify.app',
+        'https://solytrading.netlify.app',
         'http://localhost:3000'
     ],
     credentials: true,

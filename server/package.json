@@ -1,5 +1,5 @@
 {
-  "name": "soly-erp-backend",
+  "name": "soly-backend",
   "version": "1.0.0",
   "description": "Backend for Soly System",
   "main": "server.js",
